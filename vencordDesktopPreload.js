@@ -1,4 +1,4 @@
-// Vencord 58a8aed
+// Vencord 7464ccd
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
